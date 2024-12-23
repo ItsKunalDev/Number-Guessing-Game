@@ -92,4 +92,7 @@ Notes
 - The random number generator uses `srand(time(0))` to ensure randomness for each game session.
 
 
+Project URL
+* https://github.com/ItsKunalDev/Number-Guessing-Game/blob/main/README.md
+
 
