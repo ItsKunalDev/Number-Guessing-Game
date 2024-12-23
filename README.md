@@ -93,6 +93,6 @@ Notes
 
 
 Project URL
-* https://github.com/ItsKunalDev/Number-Guessing-Game/blob/main/Number%20Guessing%20Game.cpp
+* https://roadmap.sh/projects/number-guessing-game
 
 
